@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Christopheredjohnson\LaraTest\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaraTestCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'lara-test';
 
     public $description = 'My command';
 
